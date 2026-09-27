@@ -1,6 +1,6 @@
 # RH850 Data Flash Rewrite
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002252-blue.svg)](https://doi.org/10.5281/zenodo.23002252) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002808-blue.svg)](https://doi.org/10.5281/zenodo.23002808) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 *Data-Flash feingranular beschreiben am Renesas RH850/F1L (R7F7010).*
 
@@ -59,7 +59,7 @@ user's manuals).
 You may use, change and share everything, also commercially. When you pass it on or
 publish something based on it, credit it as:
 
-> Johannes Stockhammer, "RH850 Data Flash Rewrite", version 1.0.0, Zenodo, https://doi.org/10.5281/zenodo.23002252
+> Johannes Stockhammer, "RH850 Data Flash Rewrite", version 1.0.1, Zenodo, https://doi.org/10.5281/zenodo.23002808
 
 GitHub shows the same citation under "Cite this repository" (from [`CITATION.cff`](CITATION.cff)).
 
@@ -71,4 +71,4 @@ Renesas and RH850 are trademarks of Renesas Electronics Corporation. This note i
 
 Johannes Stockhammer
 
-Method and technical content by Johannes Stockhammer. Translation and editing of the text were done with the help of AI tools and reviewed by the author.
+Method, technical content and text by Johannes Stockhammer. Translation and text were refined with the help of AI tools and reviewed by the author.
