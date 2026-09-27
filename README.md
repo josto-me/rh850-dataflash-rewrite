@@ -1,6 +1,6 @@
 # RH850 Data Flash Rewrite
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002808-blue.svg)](https://doi.org/10.5281/zenodo.23002808) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002251-blue.svg)](https://doi.org/10.5281/zenodo.23002251) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 *Data-Flash feingranular beschreiben am Renesas RH850/F1L (R7F7010).*
 
