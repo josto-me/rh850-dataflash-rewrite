@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or change this work, please cite it as below."
+title: "RH850 Data Flash Rewrite"
+type: dataset
+authors:
+  - family-names: Stockhammer
+    given-names: Johannes
+    orcid: "https://orcid.org/0009-0008-4263-5369"
+repository-code: "https://github.com/josto-me/rh850-dataflash-rewrite"
+url: "https://josto.me"
+doi: "10.5281/zenodo.23002252"
+version: "1.0.0"
+license:
+  - CC-BY-4.0

@@ -1,0 +1,16 @@
+# OS / editor cruft
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+.DS_Store
+*~
+*.swp
+*Zone.Identifier
+
+# Build / tool output (none expected in this docs-only repo)
+*.hex
+*.mot
+*.srec
+*.bin
+*.elf
+*.map
